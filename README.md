@@ -56,7 +56,7 @@ Created a Python database system that analyzes fatal police shootings using open
 ## 📫 Get in Touch
 
 📧 Email: trejar.motaung@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in//mpho-motaung-34a770139
+🔗 LinkedIn: https://linkedin.com/in/mpho-motaung-34a770139
 💻 Portfolio: https://mila-suites-taksim.best-istanbul-hotels.com/en/
 
 ---
