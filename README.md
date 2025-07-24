@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Treasure Mokoena
+# 👋 Hi, I'm Mpho (Trejar) Motaung
 
 🎓 Software Engineering Graduate | 💻 Full-Stack & Android Developer | 🌍 Multilingual | 🚀 Open to Work
 
@@ -56,8 +56,8 @@ Created a Python database system that analyzes fatal police shootings using open
 ## 📫 Get in Touch
 
 📧 Email: trejar.motaung@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/treasure-mokoena](https://linkedin.com/in//mpho-motaung-34a770139)  
-💻 Portfolio: [milasuitestaksim.com](https://mila-suites-taksim.best-istanbul-hotels.com/en/)
+🔗 LinkedIn: https://linkedin.com/in//mpho-motaung-34a770139
+💻 Portfolio: https://mila-suites-taksim.best-istanbul-hotels.com/en/
 
 ---
 
