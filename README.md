@@ -15,7 +15,7 @@ I thrive in multicultural teams, having completed internships in Turkey where I 
 ## 🧠 Skills
 
 **Languages:** Java, Python, C++, SQL, HTML, CSS, JavaScript  
-**Frameworks/Tools:** Android Studio, SQLite, MySQL, Git, VS Code, PHP  
+**Frameworks/Tools:** Android Studio, SQLite, MySQL, Git, VS Code, PHP ,React js, Django, Spark 
 **Concepts:** Full-Stack Web Development, Mobile App Development, Data Structures, Algorithm Design  
 **Soft Skills:** Communication, Teamwork, Problem Solving, Cross-Cultural Collaboration  
 
@@ -40,7 +40,7 @@ Created a Python database system that analyzes fatal police shootings using open
 ## 🏆 Certifications
 
 - 🎓 BSc in Software Engineering – Üsküdar University  
-- 🏅 Erasmus+ Internship Certificate – Altis Teknoloji Yazılım Ve Danışmanlık Ltd. Şti  
+- 🏅 Erasmus+ Internship Certificate – Altis Teknoloji Yazılım Ve Danışmanlık Ltd. Şti  🔗 https://drive.google.com/file/d/1lnknmU0RO9OpcVwfm9QJP5FKNPZCEcDl/view?usp=sharing
 
 ---
 
